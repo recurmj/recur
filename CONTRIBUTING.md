@@ -22,7 +22,7 @@ Use clear, constructive language and reference the relevant section or page of t
 
 ### Authorship & Attribution
 
-All text and concepts in this repository are © 2025 M.J.  
+All text and concepts in this repository are © 2025 M J
 Any derivative work or citation should credit the original publication:  
 **"Recur Whitepaper: The Flow Layer for Digital Value"**  
 [https://github.com/recurmj/recur](https://github.com/recurmj/recur)
