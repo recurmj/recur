@@ -24,7 +24,7 @@ Use clear, constructive language and reference the relevant section or page of t
 
 All text and concepts in this repository are © 2025 M.J.  
 Any derivative work or citation should credit the original publication:  
-**"Recur Whitepaper: Defining the Permissioned-Pull Standard for Digital Value"**  
+**"Recur Whitepaper: The Flow Layer for Digital Value"**  
 [https://github.com/recurmj/recur](https://github.com/recurmj/recur)
 
 ---
