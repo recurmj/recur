@@ -1,0 +1,7 @@
+Recur Whitepaper — Version 1.0
+Initial Public Release: October 17, 2025
+
+Notes:
+- First formal definition of permissioned-pull liquidity.
+- Establishes conceptual, economic, and architectural framework.
+- Published on recurprotocol.com and github.com/recurmj/recur.
