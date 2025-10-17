@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 M.J.
+Copyright (c) 2025 M J
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this document and associated files (the "Recur Whitepaper"), to deal
