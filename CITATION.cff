@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use or reference this work, please cite it as below."
 title: "Recur Whitepaper: The Flow Layer for Digital Value"
 authors:
-  - family-names: "J."
-    given-names: "M."
+  - family-names: "J"
+    given-names: "M"
 date-released: "2025-10-17"
 version: "1.0"
 repository-code: "https://github.com/recurmj/recur"
@@ -12,10 +12,10 @@ url: "https://recurprotocol.com"
 doi: ""
 preferred-citation:
   type: article
-  title: "Recur Whitepaper: Defining the Permissioned-Pull Standard for Digital Value"
+  title: "Recur Whitepaper: The Flow Layer for Digital Value"
   authors:
-    - family-names: "J."
-      given-names: "M."
+    - family-names: "J"
+      given-names: "M"
   year: 2025
   month: 10
   url: "https://github.com/recurmj/recur"
