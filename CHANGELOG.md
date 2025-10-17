@@ -13,5 +13,5 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Establishes economic and architectural rationale for the flow layer.
 
 ### Notes
-- First release authored by M.J.  
+- First release authored by M J 
 - Publicly hosted on [recurprotocol.com](https://recurprotocol.com) and [github.com/recurmj/recur](https://github.com/recurmj/recur).
