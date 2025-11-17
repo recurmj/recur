@@ -1,5 +1,6 @@
-Recur Whitepaper — Version 1.0
+Recur Whitepaper — Version 1.1
 Initial Public Release: October 17, 2025
+v1.1 Release: November 17, 2025
 
 Notes:
 - First formal definition of permissioned-pull liquidity.
