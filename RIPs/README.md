@@ -1,5 +1,7 @@
 # Recur Improvement Proposals (RIPs)
 
+**All RIPs and reference implementation code lives at** [github.com/recurmj/recur-standard](github.com/recurmj/recur-standard)
+
 RIPs define standards and protocol-level specifications for the Recur permissioned-pull architecture.
 
 | ID | Title | Status | Author | Created |
