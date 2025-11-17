@@ -1,7 +1,7 @@
 # Authors
 
 **The Recur Whitepaper: The Flow Layer for Digital Value**  
-Author: Mats Heming Julner 
+Author: Mats Heming Julner  
 Date: November 2025  
 Repository: https://github.com/recurmj/recur
 
